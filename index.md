@@ -1,8 +1,8 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Minh-Tri's CV
 ---
-# Anja Schneider 
+# Minh-Tri Nguyen
 Physicist, Mathematician, Cambridge professor.
 
 <div id="webaddress">
