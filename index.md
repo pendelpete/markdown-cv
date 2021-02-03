@@ -1,8 +1,8 @@
 ---
 layout: cv
-title: Minh-Tri's CV
+title: Isaac Newtons's CV
 ---
-# Minh-Tri Nguyen
+# Isaac Newton
 Physicist, Mathematician, Cambridge professor.
 
 <div id="webaddress">
